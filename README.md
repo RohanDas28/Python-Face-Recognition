@@ -12,6 +12,7 @@
 ---
 ### Tweaking
 You can always tweak the program by just changing the values  here:(line 16)
+<br>
  ```faces = face_cascade.detectMultiScale(imgGray, 1.2, 5)```
  Where **detectMultiScale** function is used to detect the faces. It takes 3 arguments — the input image, _scaleFactor_ and _minNeighbours_. _scaleFactor_ specifies how much the image size is reduced with each scale. _minNeighbours_ specifies how many neighbors each candidate rectangle should have to retain it. You may have to tweak these values to get the best results.
  
