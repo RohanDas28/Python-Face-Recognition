@@ -1,9 +1,9 @@
 
 # Python Face Recognition [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-### This is a simple python Face Recognition script . It uses OpenCV library to do the task. 
+### This is a simple python Face Recognition script which uses OpenCV library to do the task. 
 ---
 ### Instructions
- 1. Make sure you have [**Python** ](https://www.python.org/)(Version 3.6 or higher) installed in your system.
+ 1. Make sure you have [**Python** ](https://www.python.org/)(latest) installed in your system.
  2. Open the folder in CMD or terminal and type ``` pip install opencv-python ``` to install OpenCV.
  3. Now edit the **main.py** file using your favorite code editor(Example: Sublime text editor, VSCode, Vim).
  4. Place the desired photo in the directory.
